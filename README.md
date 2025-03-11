@@ -1,12 +1,12 @@
 # Tasks to do on your own
 
-## Obligatory
+## Basic
 1. Fork the repository, so that you have your own copy
 2. Create a new test project (xUnit) for the Geometry. Give it a name Geometry.Tests. Remember about adding project reference to the Geometry project from Geometry.Tests. Install FluentAssertions package.
 3. In the Geometry.Tests project create a new class PointTests.
 4. Test all the features of the Point class using the approach demonstrated in the classes
 
-## Voluntary 
+## Less basic 
 5. In the Geometry.Tests project create a new class SegmentTests.
 6. Test all the features of the Segment class using the approach demonstrated in the classes
 7. In the Geometry.Tests project create a new class PolygonalChainTests.
